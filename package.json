@@ -1,0 +1,6 @@
+{
+  "name": "prathik-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio of Prathik Rathnakara Sheregar",
+  "scripts": { "start": "npx serve ." }
+}
